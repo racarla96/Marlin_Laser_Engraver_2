@@ -1,5 +1,8 @@
 # Marlin Laser Engraver 2
 
+## Upload considerations
+- In some ocassions, we need to unplug the screen to upload the code.
+
 ## Laser: Laser power 500 mW walelength 405 nm
 
 ![laser_driver_view1](Laser/laser_driver_view1.jpg)
@@ -20,3 +23,13 @@ Change line 1429 to #define SDSUPPORT (just remove the // at the beginning)
 EXP1 is for LCD
 
 EXP2 is for SDCard (Recommended to shield this cable with aluminium foils)
+
+## Calculations of stepper motor
+Maximum Amperaje
+
+IMax = 0.85 (Current/Phase) * 2 (Phase) = 1.7 A
+
+Maybe can increase to 2 A
+
+## Issues
+- X-axis of the board seems not working smoothly, so via software we change the X-axis to Z-axis and viceversa. Change pins of the output. [TODO]

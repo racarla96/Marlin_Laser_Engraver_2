@@ -1,0 +1,32 @@
+[variant] Loaded new set of variants
+[kit] Detected kits definition version change from undefined to 2. Silently scanning for kits.
+[proc] Executing command: C:\MinGW\bin\gcc.exe -v
+[proc] Executing command: C:\MinGW\bin\mingw32-gcc-6.3.0.exe -v
+[proc] Executing command: C:\MinGW\bin\mingw32-gcc.exe -v
+[proc] Executing command: C:\ProgramData\MATLAB\SupportPackages\R2020b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\bin\arm-none-linux-gnueabi-gcc-4.4.1.exe -v
+[proc] Executing command: C:\ProgramData\MATLAB\SupportPackages\R2020b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\bin\arm-none-linux-gnueabi-gcc.exe -v
+[proc] Executing command: C:\w64devkit\bin\gcc.exe -v
+[proc] Executing command: C:\w64devkit\bin\x86_64-w64-mingw32-gcc.exe -v
+[proc] Executing command: C:\w64devkit\bin\mingw32-make.exe -v
+[proc] Executing command: C:\ProgramData\MATLAB\SupportPackages\R2020b\3P.instrset\ev3sourcerylite.instrset\CodeSourcery\bin\arm-none-linux-gnueabi-gcc.exe -v
+[proc] Executing command: C:\MinGW\bin\mingw32-make.exe -v
+[proc] Executing command: C:\MinGW\bin\mingw32-gcc.exe -v
+[proc] Executing command: C:\MinGW\bin\mingw32-make.exe -v
+[proc] Executing command: C:\MinGW\bin\mingw32-make.exe -v
+[kit] Found Kit: GCC 6.3.0 mingw32
+[kit] Found Kit: GCC 6.3.0 mingw32
+[kit] Found Kit: GCC 6.3.0 mingw32
+[kit] Found Kit: GCC 4.4.1 arm-none-linux-gnueabi
+[kit] Found Kit: GCC 4.4.1 arm-none-linux-gnueabi
+[kit] Found Kit: GCC 11.2.0 x86_64-w64-mingw32
+[kit] Found Kit: GCC 11.2.0 x86_64-w64-mingw32
+[kit] Found Kit: Visual Studio Build Tools 2019 Release - x86
+[kit] Found Kit: Visual Studio Build Tools 2019 Release - x86_amd64
+[kit] Found Kit: Visual Studio Build Tools 2019 Release - amd64_x86
+[kit] Found Kit: Visual Studio Build Tools 2019 Release - amd64
+[kit] Found Kit: Visual Studio Community 2019 Release - x86
+[kit] Found Kit: Visual Studio Community 2019 Release - x86_amd64
+[kit] Found Kit: Visual Studio Community 2019 Release - amd64_x86
+[kit] Found Kit: Visual Studio Community 2019 Release - amd64
+[kit] Successfully loaded 11 kits from C:\Users\Racarla\AppData\Local\CMakeTools\cmake-tools-kits.json
+[rollbar] Unhandled exception: Unhandled Promise rejection: Post-folder-open Canceled: Canceled {"folder":{"uri":{"$mid":1,"fsPath":"c:\\Users\\Racarla\\Documents\\Git\\Marlin_Laser_Engraver_2\\Marlin\\Marlin-2.0.x","_sep":1,"external":"file:///c%3A/Users/Racarla/Documents/Git/Marlin_Laser_Engraver_2/Marlin/Marlin-2.0.x","path":"/c:/Users/Racarla/Documents/Git/Marlin_Laser_Engraver_2/Marlin/Marlin-2.0.x","scheme":"file"},"name":"Marlin-2.0.x","index":0}}

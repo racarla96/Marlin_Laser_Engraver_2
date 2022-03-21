@@ -72,4 +72,4 @@
   #define E1_MS2_PIN                           4  // PG5 | Pin  1 | PWM4 |        | D4    | SERVO3_PIN
 #endif
 
-#include "pins_RAMPS.h"
+//#include "pins_RAMPS.h"

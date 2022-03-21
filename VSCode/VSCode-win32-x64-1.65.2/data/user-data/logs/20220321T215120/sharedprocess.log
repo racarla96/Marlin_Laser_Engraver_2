@@ -1,0 +1,74 @@
+[2022-03-21 21:51:22.436] [sharedprocess] [info] Starting worker process with pid 16756 (type: fileWatcher, window: 1).
+[2022-03-21 21:51:22.592] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2022-03-21 21:53:40.692] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools
+[2022-03-21 21:53:40.701] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2022-03-21 21:53:55.567] [sharedprocess] [info] Getting Manifest... ms-vscode.cmake-tools
+[2022-03-21 21:53:55.576] [sharedprocess] [info] Installing extension: ms-vscode.cmake-tools
+[2022-03-21 21:53:55.820] [sharedprocess] [info] Getting Manifest... twxs.cmake
+[2022-03-21 21:53:57.546] [sharedprocess] [info] Installing extension: twxs.cmake
+[2022-03-21 21:54:05.855] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools-themes
+[2022-03-21 21:54:05.878] [sharedprocess] [info] Installing extension: ms-vscode.cpptools-themes
+[2022-03-21 21:54:08.425] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools-themes c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\user-data\CachedExtensionVSIXs\ms-vscode.cpptools-themes-1.0.0
+[2022-03-21 21:54:08.466] [sharedprocess] [info] Extracted extension to C:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\.e0a0f7b2-10e4-4de2-9c47-b182901f4f58: ms-vscode.cpptools-themes
+[2022-03-21 21:54:08.481] [sharedprocess] [info] Renamed to C:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\ms-vscode.cpptools-themes-1.0.0
+[2022-03-21 21:54:08.490] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools-themes
+[2022-03-21 21:54:08.492] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools-themes
+[2022-03-21 21:54:12.370] [sharedprocess] [info] Getting Manifest... cschlosser.doxdocgen
+[2022-03-21 21:54:12.374] [sharedprocess] [info] Installing extension: cschlosser.doxdocgen
+[2022-03-21 21:54:14.841] [sharedprocess] [info] Downloaded extension: twxs.cmake c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\user-data\CachedExtensionVSIXs\twxs.cmake-0.0.17
+[2022-03-21 21:54:15.061] [sharedprocess] [info] Extracted extension to C:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\.6e5351f8-68d3-4d9d-867a-5e50559dddab: twxs.cmake
+[2022-03-21 21:54:15.078] [sharedprocess] [info] Renamed to C:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\twxs.cmake-0.0.17
+[2022-03-21 21:54:15.085] [sharedprocess] [info] Extracting completed. twxs.cmake
+[2022-03-21 21:54:21.282] [sharedprocess] [info] Downloaded extension: ms-vscode.cmake-tools c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\user-data\CachedExtensionVSIXs\ms-vscode.cmake-tools-1.10.4
+[2022-03-21 21:54:21.534] [sharedprocess] [info] Extracted extension to C:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\.bf7acf12-961b-40cc-b6eb-75fdb3430f7a: ms-vscode.cmake-tools
+[2022-03-21 21:54:21.556] [sharedprocess] [info] Renamed to C:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\ms-vscode.cmake-tools-1.10.4
+[2022-03-21 21:54:21.564] [sharedprocess] [info] Extracting completed. ms-vscode.cmake-tools
+[2022-03-21 21:54:21.566] [sharedprocess] [info] Extension installed successfully: twxs.cmake
+[2022-03-21 21:54:21.567] [sharedprocess] [info] Extension installed successfully: ms-vscode.cmake-tools
+[2022-03-21 21:54:22.059] [sharedprocess] [info] Downloaded extension: cschlosser.doxdocgen c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\user-data\CachedExtensionVSIXs\cschlosser.doxdocgen-1.4.0
+[2022-03-21 21:54:23.530] [sharedprocess] [info] Extracted extension to C:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\.e07caf10-4fe1-46dd-b51e-799b2052508c: cschlosser.doxdocgen
+[2022-03-21 21:54:23.549] [sharedprocess] [info] Renamed to C:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\cschlosser.doxdocgen-1.4.0
+[2022-03-21 21:54:23.557] [sharedprocess] [info] Extracting completed. cschlosser.doxdocgen
+[2022-03-21 21:54:23.557] [sharedprocess] [info] Extension installed successfully: cschlosser.doxdocgen
+[2022-03-21 21:54:24.741] [sharedprocess] [info] Getting Manifest... jeff-hykin.better-cpp-syntax
+[2022-03-21 21:54:25.048] [sharedprocess] [info] Installing extension: jeff-hykin.better-cpp-syntax
+[2022-03-21 21:54:27.847] [sharedprocess] [info] Downloaded extension: jeff-hykin.better-cpp-syntax c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\user-data\CachedExtensionVSIXs\jeff-hykin.better-cpp-syntax-1.15.13
+[2022-03-21 21:54:27.882] [sharedprocess] [info] Extracted extension to C:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\.63daa0f7-1576-4e37-854b-e693b956f9d4: jeff-hykin.better-cpp-syntax
+[2022-03-21 21:54:27.896] [sharedprocess] [info] Renamed to C:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\jeff-hykin.better-cpp-syntax-1.15.13
+[2022-03-21 21:54:27.903] [sharedprocess] [info] Extracting completed. jeff-hykin.better-cpp-syntax
+[2022-03-21 21:54:27.903] [sharedprocess] [info] Extension installed successfully: jeff-hykin.better-cpp-syntax
+[2022-03-21 21:54:49.212] [sharedprocess] [info] Getting Manifest... platformio.platformio-ide
+[2022-03-21 21:54:49.478] [sharedprocess] [info] Installing extension: platformio.platformio-ide
+[2022-03-21 21:54:49.895] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools
+[2022-03-21 21:54:49.958] [sharedprocess] [info] Extension is already requested to install ms-vscode.cpptools
+[2022-03-21 21:54:58.618] [sharedprocess] [info] Downloaded extension: platformio.platformio-ide c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\user-data\CachedExtensionVSIXs\platformio.platformio-ide-2.4.3
+[2022-03-21 21:54:58.820] [sharedprocess] [info] Getting Manifest... marlinfirmware.auto-build
+[2022-03-21 21:54:58.826] [sharedprocess] [info] Installing extension: marlinfirmware.auto-build
+[2022-03-21 21:54:59.062] [sharedprocess] [info] Getting Manifest... platformio.platformio-ide
+[2022-03-21 21:54:59.425] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools
+[2022-03-21 21:54:59.487] [sharedprocess] [info] Extension is already requested to install platformio.platformio-ide
+[2022-03-21 21:54:59.487] [sharedprocess] [info] Extension is already requested to install ms-vscode.cpptools
+[2022-03-21 21:55:01.167] [sharedprocess] [info] Extracted extension to C:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\.dccf1c2f-d1ae-4dc3-ab9d-ac1927f8127e: platformio.platformio-ide
+[2022-03-21 21:55:01.210] [sharedprocess] [info] Renamed to C:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\platformio.platformio-ide-2.4.3
+[2022-03-21 21:55:01.217] [sharedprocess] [info] Extracting completed. platformio.platformio-ide
+[2022-03-21 21:55:01.219] [sharedprocess] [info] Extension installed successfully: platformio.platformio-ide
+[2022-03-21 21:55:02.681] [sharedprocess] [info] Downloaded extension: marlinfirmware.auto-build c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\user-data\CachedExtensionVSIXs\marlinfirmware.auto-build-2.1.37
+[2022-03-21 21:55:02.962] [sharedprocess] [info] Extracted extension to C:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\.6c396907-3dc8-4915-bf0d-dc556db04471: marlinfirmware.auto-build
+[2022-03-21 21:55:03.108] [sharedprocess] [info] Renamed to C:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\marlinfirmware.auto-build-2.1.37
+[2022-03-21 21:55:03.115] [sharedprocess] [info] Extracting completed. marlinfirmware.auto-build
+[2022-03-21 21:55:03.116] [sharedprocess] [info] Extension installed successfully: marlinfirmware.auto-build
+[2022-03-21 21:55:10.873] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\user-data\CachedExtensionVSIXs\ms-vscode.cpptools-1.8.4-win32-x64
+[2022-03-21 21:55:13.424] [sharedprocess] [info] Extracted extension to C:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\.1ba9f7f8-0521-4ea4-8d47-5928482ad742: ms-vscode.cpptools
+[2022-03-21 21:55:13.450] [sharedprocess] [info] Renamed to C:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\ms-vscode.cpptools-1.8.4
+[2022-03-21 21:55:13.461] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools
+[2022-03-21 21:55:13.465] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools
+[2022-03-21 21:57:57.028] [sharedprocess] [info] Worker process with pid 16756 terminated normally (type: fileWatcher, window: 1).
+[2022-03-21 21:57:58.187] [sharedprocess] [info] Starting worker process with pid 10728 (type: fileWatcher, window: 1).
+[2022-03-21 21:58:03.037] [sharedprocess] [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+[2022-03-21 21:58:03.043] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-es
+[2022-03-21 21:58:05.061] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-es c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\user-data\CachedExtensionVSIXs\ms-ceintl.vscode-language-pack-es-1.65.3
+[2022-03-21 21:58:05.466] [sharedprocess] [info] Extracted extension to C:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\.847e67a5-4151-4c41-a474-9ae8397ffc1d: ms-ceintl.vscode-language-pack-es
+[2022-03-21 21:58:05.490] [sharedprocess] [info] Renamed to C:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\ms-ceintl.vscode-language-pack-es-1.65.3
+[2022-03-21 21:58:05.502] [sharedprocess] [info] Extracting completed. ms-ceintl.vscode-language-pack-es
+[2022-03-21 21:58:05.502] [sharedprocess] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+[2022-03-21 21:58:05.609] [sharedprocess] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
