@@ -1,0 +1,40 @@
+{
+    "telemetry.machineId": "c22c6c1da008438bb24c878c0c61d01097b85808f89f52fda8120879efc7c04c",
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowSplash": {
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1e1e1e",
+            "editorBackground": "#1e1e1e",
+            "titleBarBackground": "#3c3c3c",
+            "activityBarBackground": "#333333",
+            "sideBarBackground": "#252526",
+            "statusBarBackground": "#007acc",
+            "statusBarNoFolderBackground": "#68217a"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 30,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "C:\\Users\\Racarla\\Documents\\Git\\Marlin_Laser_Engraver_2\\VSCode\\VSCode-win32-x64-1.65.2\\data\\user-data\\Backups\\1647895382983",
+            "uiState": {
+                "mode": 1,
+                "x": 208,
+                "y": 66,
+                "width": 1024,
+                "height": 768
+            }
+        },
+        "openedWindows": []
+    }
+}
