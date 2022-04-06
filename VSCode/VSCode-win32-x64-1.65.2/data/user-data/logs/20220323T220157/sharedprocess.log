@@ -1,0 +1,13 @@
+[2022-03-23 22:02:00.755] [sharedprocess] [info] Starting worker process with pid 12756 (type: fileWatcher, window: 1).
+[2022-03-23 22:02:01.030] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2022-03-23 22:02:02.804] [sharedprocess] [info] Getting Manifest... ms-vscode.cmake-tools
+[2022-03-23 22:02:03.003] [sharedprocess] [info] Installing extension: ms-vscode.cmake-tools
+[2022-03-23 22:02:03.938] [sharedprocess] [info] Downloaded extension: ms-vscode.cmake-tools c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\user-data\CachedExtensionVSIXs\ms-vscode.cmake-tools-1.10.5
+[2022-03-23 22:02:04.314] [sharedprocess] [info] Extracted extension to C:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\.f9eac0f9-90f1-4563-9449-f9417d218c10: ms-vscode.cmake-tools
+[2022-03-23 22:02:04.336] [sharedprocess] [info] Renamed to C:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\ms-vscode.cmake-tools-1.10.5
+[2022-03-23 22:02:04.366] [sharedprocess] [info] Extracting completed. ms-vscode.cmake-tools
+[2022-03-23 22:02:04.375] [sharedprocess] [info] Extension installed successfully: ms-vscode.cmake-tools
+[2022-03-23 22:08:16.035] [sharedprocess] [info] Starting worker process with pid 16624 (type: fileWatcher, window: 3).
+[2022-03-23 22:08:29.929] [sharedprocess] [info] Worker process with pid 16624 terminated normally (type: fileWatcher, window: 3).
+[2022-03-23 22:08:31.044] [sharedprocess] [info] Starting worker process with pid 9336 (type: fileWatcher, window: 3).
+[2022-03-23 22:28:37.702] [sharedprocess] [info] Worker process with pid 12756 terminated normally (type: fileWatcher, window: 1).

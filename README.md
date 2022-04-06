@@ -1,7 +1,6 @@
 # Marlin Laser Engraver 2
 
-## Upload considerations
-- In some ocassions, we need to unplug the screen to upload the code.
+
 
 ## Laser: Laser power 500 mW walelength 405 nm
 
@@ -31,5 +30,20 @@ IMax = 0.85 (Current/Phase) * 2 (Phase) = 1.7 A
 
 Maybe can increase to 2 A
 
+# Marlin code general changes
+- Y-axis invert axis.
+- Changing BED_SIZE -> X_BED_SIZE 170 & Y_BED_SIZE 300
+
+# Enlaces útiles
+- https://www.youtube.com/watch?v=c0Kk8ucRWUM
+
+# Modelos CAD empleados
+- https://www.thingiverse.com/thing:5149959
+- https://www.thingiverse.com/thing:4126941
+- https://www.thingiverse.com/thing:4723682
+
 ## Issues
-- X-axis of the board seems not working smoothly, so via software we change the X-axis to Z-axis and viceversa. Change pins of the output. [TODO]
+- X-axis of the board seems not working smoothly, so via software we change the X-axis to Z-axis and viceversa. Change pins of the output.
+
+## Upload considerations
+- In some ocassions, we need to unplug the screen to upload the code.

@@ -1,0 +1,62 @@
+[2022-03-23 22:08:16.877] [exthost] [info] Extension host with pid 17008 started
+[2022-03-23 22:08:16.981] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-03-23 22:08:17.084] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-23 22:08:17.113] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-23 22:08:17.143] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-23 22:08:17.219] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: true, activationEvent: '*', root cause: platformio.platformio-ide
+[2022-03-23 22:08:17.801] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-23 22:08:17.902] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-23 22:08:17.973] [exthost] [info] ExtensionService#_doActivateExtension platformio.platformio-ide, startup: true, activationEvent: '*'
+[2022-03-23 22:08:21.626] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-03-23 22:08:21.962] [exthost] [info] ExtensionService#_doActivateExtension marlinfirmware.auto-build, startup: true, activationEvent: '*'
+[2022-03-23 22:08:22.018] [exthost] [info] Eager extensions activated
+[2022-03-23 22:08:22.025] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-23 22:08:22.086] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-23 22:08:22.112] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-23 22:08:22.226] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-23 22:08:22.498] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-23 22:08:29.913] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-23 22:08:29.924] [exthost] [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+	at Object.F [as canceled] (c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:5:1172)
+	at n._remoteCall (c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:89:13886)
+	at Proxy.y.<computed>.$.charCodeAt.y.<computed> (c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:89:10294)
+	at E.resolveProxy (c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:89:39914)
+	at Object.resolveProxy (c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:99:58421)
+	at useProxySettings (c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\resources\app\node_modules.asar\vscode-proxy-agent\out\index.js:159:16)
+	at c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\resources\app\node_modules.asar\vscode-proxy-agent\out\index.js:107:13
+	at c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\resources\app\node_modules.asar\vscode-proxy-agent\out\index.js:336:13
+	at processTicksAndRejections (internal/process/task_queues.js:93:5) 
+[2022-03-23 22:08:29.932] [exthost] [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+	at Object.F [as canceled] (c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:5:1172)
+	at n._remoteCall (c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:89:13886)
+	at Proxy.y.<computed>.$.charCodeAt.y.<computed> (c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:89:10294)
+	at E.resolveProxy (c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:89:39914)
+	at Object.resolveProxy (c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:99:58421)
+	at useProxySettings (c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\resources\app\node_modules.asar\vscode-proxy-agent\out\index.js:159:16)
+	at c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\resources\app\node_modules.asar\vscode-proxy-agent\out\index.js:107:13
+	at c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\resources\app\node_modules.asar\vscode-proxy-agent\out\index.js:336:13
+	at processTicksAndRejections (internal/process/task_queues.js:93:5) 
+[2022-03-23 22:08:29.945] [exthost] [info] Extension host with pid 17008 exiting with code 0
+[2022-03-23 22:08:31.729] [exthost] [info] Extension host with pid 6388 started
+[2022-03-23 22:08:31.730] [exthost] [info] Skipping acquiring lock for c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\user-data\User\workspaceStorage\0325170b7a8d184c3e3f7f637fd2d745.
+[2022-03-23 22:08:31.839] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-03-23 22:08:31.856] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-23 22:08:31.861] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-23 22:08:31.866] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-23 22:08:32.127] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-23 22:08:32.160] [exthost] [info] Eager extensions activated
+[2022-03-23 22:08:32.163] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+[2022-03-23 22:08:32.180] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: '*', root cause: marlinfirmware.auto-build
+[2022-03-23 22:08:32.240] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-23 22:08:32.248] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-23 22:08:32.252] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-23 22:08:32.264] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-23 22:08:32.310] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-23 22:08:32.325] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-03-23 22:08:32.630] [exthost] [info] ExtensionService#_doActivateExtension platformio.platformio-ide, startup: false, activationEvent: '*', root cause: marlinfirmware.auto-build
+[2022-03-23 22:08:33.129] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-03-23 22:08:33.207] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-03-23 22:08:33.246] [exthost] [info] ExtensionService#_doActivateExtension marlinfirmware.auto-build, startup: false, activationEvent: '*'
+[2022-03-23 22:08:33.378] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-03-23 22:28:41.221] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-23 22:28:41.255] [exthost] [info] Extension host with pid 6388 exiting with code 0

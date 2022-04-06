@@ -26,17 +26,17 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///c%3A/Users/Racarla/Documents/Git/Marlin_Laser_Engraver_2/Marlin/Marlin-2.0.x",
-            "backupPath": "C:\\Users\\Racarla\\Documents\\Git\\Marlin_Laser_Engraver_2\\VSCode\\VSCode-win32-x64-1.65.2\\data\\user-data\\Backups\\85300bb6ba1813964b47dbec35797ffb",
+            "folder": "file:///c%3A/Users/Racarla/Documents/Git/Marlin_Laser_Engraver_2",
+            "backupPath": "C:\\Users\\Racarla\\Documents\\Git\\Marlin_Laser_Engraver_2\\VSCode\\VSCode-win32-x64-1.65.2\\data\\user-data\\Backups\\567a31e9960842d2e68ef04b6d869ad5",
             "uiState": {
                 "mode": 0,
-                "x": 208,
-                "y": 66,
+                "x": -876,
+                "y": 56,
                 "width": 1024,
-                "height": 768
+                "height": 650
             }
         },
         "openedWindows": []
     },
-    "pickerWorkingDir": "C:\\Users\\Racarla\\Documents\\Git\\Marlin_Laser_Engraver_2\\Marlin"
+    "pickerWorkingDir": "C:\\Users\\Racarla\\Documents\\Git"
 }

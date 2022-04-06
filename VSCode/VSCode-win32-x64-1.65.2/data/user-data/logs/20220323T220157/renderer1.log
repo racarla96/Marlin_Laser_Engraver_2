@@ -1,0 +1,4 @@
+[2022-03-23 22:02:08.650] [renderer1] [error] [Extension Host] (node:13912) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+[2022-03-23 22:04:55.058] [renderer1] [error] EPERM: operation not permitted, watch: Error: EPERM: operation not permitted, watch
+	at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
