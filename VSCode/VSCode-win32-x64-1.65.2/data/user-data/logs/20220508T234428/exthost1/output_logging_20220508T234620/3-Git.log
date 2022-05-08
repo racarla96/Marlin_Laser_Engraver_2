@@ -1,0 +1,5 @@
+[2022-05-08T21:46:21.402Z] Validating found git in: C:\Program Files\Git\cmd\git.exe
+[2022-05-08T21:46:21.409Z] Validating found git in: C:\Program Files (x86)\Git\cmd\git.exe
+[2022-05-08T21:46:21.410Z] Validating found git in: C:\Program Files\Git\cmd\git.exe
+[2022-05-08T21:46:21.411Z] Validating found git in: C:\Users\Rafael\AppData\Local\Programs\Git\cmd\git.exe
+[2022-05-08T21:46:21.618Z] Git installation not found.

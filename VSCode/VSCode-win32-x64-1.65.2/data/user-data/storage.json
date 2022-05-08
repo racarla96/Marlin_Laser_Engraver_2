@@ -19,24 +19,24 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 30,
             "activityBarWidth": 48,
-            "sideBarWidth": 256,
+            "sideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///c%3A/Users/Racarla/Documents/Git/Marlin_Laser_Engraver_2",
-            "backupPath": "C:\\Users\\Racarla\\Documents\\Git\\Marlin_Laser_Engraver_2\\VSCode\\VSCode-win32-x64-1.65.2\\data\\user-data\\Backups\\567a31e9960842d2e68ef04b6d869ad5",
+            "folder": "file:///c%3A/Users/Rafael/Documents/GitHub/Marlin_Laser_Engraver_2",
+            "backupPath": "C:\\Users\\Rafael\\Documents\\GitHub\\Marlin_Laser_Engraver_2\\VSCode\\VSCode-win32-x64-1.65.2\\data\\user-data\\Backups\\3ebbd822a6f303e57d5c755e7cc1d47d",
             "uiState": {
                 "mode": 0,
-                "x": -876,
+                "x": 0,
                 "y": 56,
                 "width": 1024,
-                "height": 650
+                "height": 655
             }
         },
         "openedWindows": []
     },
-    "pickerWorkingDir": "C:\\Users\\Racarla\\Documents\\Git"
+    "pickerWorkingDir": "C:\\Users\\Rafael\\Documents\\GitHub"
 }

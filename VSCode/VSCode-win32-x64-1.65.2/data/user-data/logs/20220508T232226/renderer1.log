@@ -1,0 +1,10 @@
+[2022-05-08 23:22:31.144] [renderer1] [error] [Extension Host] (node:9188) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+[2022-05-08 23:23:00.820] [renderer1] [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file 'c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\README.md' (NoPermissions (FileSystemError): Error: EPERM: operation not permitted, mkdir 'c:\Users\Racarla') file:///c:/Users/Racarla/Documents/Git/Marlin_Laser_Engraver_2/README.md
+[2022-05-08 23:23:00.826] [renderer1] [info] [lifecycle]: Shutdown was prevented by final veto (id: veto.backups)
+[2022-05-08 23:23:06.414] [renderer1] [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Command failed: "C:\Users\Rafael\Documents\GitHub\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\bin\code.cmd" --file-write "c:\Users\Rafael\Documents\GitHub\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\user-data\code-elevated-Ke2G1Cwr" "c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\README.md"
+Using --file-write with invalid arguments.
+ file:///c:/Users/Racarla/Documents/Git/Marlin_Laser_Engraver_2/README.md
+[2022-05-08 23:23:09.854] [renderer1] [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file 'c:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\README.md' (NoPermissions (FileSystemError): Error: EPERM: operation not permitted, mkdir 'c:\Users\Racarla') file:///c:/Users/Racarla/Documents/Git/Marlin_Laser_Engraver_2/README.md
+[2022-05-08 23:23:24.330] [renderer1] [error] [Extension Host] (node:13652) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `Code --trace-deprecation ...` to show where the warning was created)

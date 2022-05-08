@@ -1,0 +1,42 @@
+[2022-05-08 23:22:29.610] [exthost] [info] Extension host with pid 9188 started
+[2022-05-08 23:22:29.856] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-05-08 23:22:29.971] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-05-08 23:22:30.125] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-05-08 23:22:30.275] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-08 23:22:30.307] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-05-08 23:22:30.336] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-08 23:22:30.433] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: true, activationEvent: '*', root cause: platformio.platformio-ide
+[2022-05-08 23:22:31.163] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-08 23:22:31.325] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-08 23:22:31.409] [exthost] [info] ExtensionService#_doActivateExtension platformio.platformio-ide, startup: true, activationEvent: '*'
+[2022-05-08 23:22:34.806] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-05-08 23:22:35.461] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-05-08 23:22:35.603] [exthost] [info] ExtensionService#_doActivateExtension marlinfirmware.auto-build, startup: true, activationEvent: '*'
+[2022-05-08 23:22:35.664] [exthost] [info] Eager extensions activated
+[2022-05-08 23:22:35.672] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-08 23:22:35.735] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-08 23:22:35.757] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-08 23:23:20.639] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-05-08 23:23:20.668] [exthost] [info] Extension host with pid 9188 exiting with code 0
+[2022-05-08 23:23:22.527] [exthost] [info] Extension host with pid 13652 started
+[2022-05-08 23:23:22.527] [exthost] [info] Skipping acquiring lock for c:\Users\Rafael\Documents\GitHub\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\user-data\User\workspaceStorage\76142acb7d0d8f0f592774319de9c627.
+[2022-05-08 23:23:22.653] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-05-08 23:23:22.669] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-08 23:23:22.673] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-05-08 23:23:22.677] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-08 23:23:22.717] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-08 23:23:22.742] [exthost] [info] Eager extensions activated
+[2022-05-08 23:23:22.744] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-08 23:23:22.751] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-08 23:23:22.754] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-08 23:23:22.766] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-05-08 23:23:23.164] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-05-08 23:23:23.292] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: '*', root cause: marlinfirmware.auto-build
+[2022-05-08 23:23:23.875] [exthost] [info] ExtensionService#_doActivateExtension platformio.platformio-ide, startup: false, activationEvent: '*', root cause: marlinfirmware.auto-build
+[2022-05-08 23:23:24.293] [exthost] [info] ExtensionService#_doActivateExtension marlinfirmware.auto-build, startup: false, activationEvent: '*'
+[2022-05-08 23:23:24.968] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-05-08 23:23:24.977] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-05-08 23:23:25.310] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-05-08 23:30:13.426] [exthost] [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:https'
+[2022-05-08 23:43:12.309] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-05-08 23:43:12.341] [exthost] [info] Extension host with pid 13652 exiting with code 0

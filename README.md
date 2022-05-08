@@ -35,7 +35,8 @@ Maybe can increase to 2 A
 - Changing BED_SIZE -> X_BED_SIZE 170 & Y_BED_SIZE 300
 
 # Enlaces útiles
-- https://www.youtube.com/watch?v=c0Kk8ucRWUM
+- https://www.youtube.com/watch?v=c0Kk8ucRWUM (RAMPS 1 4 + MARLIN 2 0 + LASER = LIGHTBURN)
+- https://www.youtube.com/watch?v=zIiZ_gSi77Y (Calibrar el driver A4988)
 
 # Modelos CAD empleados
 - https://www.thingiverse.com/thing:5149959

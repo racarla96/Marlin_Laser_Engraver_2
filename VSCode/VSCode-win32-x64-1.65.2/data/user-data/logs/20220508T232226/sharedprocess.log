@@ -1,0 +1,26 @@
+[2022-05-08 23:22:30.273] [sharedprocess] [info] Starting worker process with pid 2580 (type: fileWatcher, window: 1).
+[2022-05-08 23:22:30.323] [sharedprocess] [info] Deleted from disk ms-vscode.cmake-tools c:\Users\Rafael\Documents\GitHub\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\ms-vscode.cmake-tools-1.10.4
+[2022-05-08 23:22:30.507] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2022-05-08 23:22:32.569] [sharedprocess] [info] Getting Manifest... marlinfirmware.auto-build
+[2022-05-08 23:22:32.571] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools
+[2022-05-08 23:22:32.576] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools-extension-pack
+[2022-05-08 23:22:33.221] [sharedprocess] [info] Installing extension: ms-vscode.cpptools-extension-pack
+[2022-05-08 23:22:33.224] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2022-05-08 23:22:33.236] [sharedprocess] [info] Installing extension: marlinfirmware.auto-build
+[2022-05-08 23:22:35.092] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools-extension-pack c:\Users\Rafael\Documents\GitHub\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\user-data\CachedExtensionVSIXs\ms-vscode.cpptools-extension-pack-1.2.0
+[2022-05-08 23:22:35.150] [sharedprocess] [info] Extracted extension to C:\Users\Rafael\Documents\GitHub\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\.0bfe9c92-4f72-4c4e-ab99-4cf5d3116397: ms-vscode.cpptools-extension-pack
+[2022-05-08 23:22:35.163] [sharedprocess] [info] Renamed to C:\Users\Rafael\Documents\GitHub\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\ms-vscode.cpptools-extension-pack-1.2.0
+[2022-05-08 23:22:35.174] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools-extension-pack
+[2022-05-08 23:22:35.180] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools-extension-pack
+[2022-05-08 23:22:35.405] [sharedprocess] [info] Downloaded extension: marlinfirmware.auto-build c:\Users\Rafael\Documents\GitHub\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\user-data\CachedExtensionVSIXs\marlinfirmware.auto-build-2.1.38
+[2022-05-08 23:22:35.808] [sharedprocess] [info] Extracted extension to C:\Users\Rafael\Documents\GitHub\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\.f6f5e6ec-246b-474b-9154-142b31ccfadb: marlinfirmware.auto-build
+[2022-05-08 23:22:35.974] [sharedprocess] [info] Renamed to C:\Users\Rafael\Documents\GitHub\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\marlinfirmware.auto-build-2.1.38
+[2022-05-08 23:22:35.982] [sharedprocess] [info] Extracting completed. marlinfirmware.auto-build
+[2022-05-08 23:22:35.987] [sharedprocess] [info] Extension installed successfully: marlinfirmware.auto-build
+[2022-05-08 23:22:37.876] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools c:\Users\Rafael\Documents\GitHub\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\user-data\CachedExtensionVSIXs\ms-vscode.cpptools-1.9.8-win32-x64
+[2022-05-08 23:22:41.437] [sharedprocess] [info] Extracted extension to C:\Users\Rafael\Documents\GitHub\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\.90baee36-4ade-4e30-a64b-98ff23d0b3ad: ms-vscode.cpptools
+[2022-05-08 23:22:41.456] [sharedprocess] [info] Renamed to C:\Users\Rafael\Documents\GitHub\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\ms-vscode.cpptools-1.9.8
+[2022-05-08 23:22:41.466] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools
+[2022-05-08 23:22:41.476] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools
+[2022-05-08 23:23:20.656] [sharedprocess] [info] Worker process with pid 2580 terminated normally (type: fileWatcher, window: 1).
+[2022-05-08 23:23:21.844] [sharedprocess] [info] Starting worker process with pid 7424 (type: fileWatcher, window: 1).

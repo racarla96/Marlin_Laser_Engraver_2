@@ -1,0 +1,45 @@
+[2022-05-08 23:44:30.090] [exthost] [info] Extension host with pid 10488 started
+[2022-05-08 23:44:30.090] [exthost] [info] Skipping acquiring lock for c:\Users\Rafael\Documents\GitHub\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\user-data\User\workspaceStorage\76142acb7d0d8f0f592774319de9c627.
+[2022-05-08 23:44:30.229] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-05-08 23:44:30.238] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-05-08 23:44:30.258] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-05-08 23:44:30.272] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-08 23:44:30.276] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-05-08 23:44:30.280] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-08 23:44:30.284] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: true, activationEvent: '*', root cause: platformio.platformio-ide
+[2022-05-08 23:44:30.641] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-08 23:44:30.659] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-08 23:44:30.665] [exthost] [info] ExtensionService#_doActivateExtension platformio.platformio-ide, startup: true, activationEvent: '*'
+[2022-05-08 23:44:31.303] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-05-08 23:44:31.431] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-05-08 23:44:31.483] [exthost] [info] ExtensionService#_doActivateExtension marlinfirmware.auto-build, startup: true, activationEvent: '*'
+[2022-05-08 23:44:31.501] [exthost] [info] Eager extensions activated
+[2022-05-08 23:44:31.523] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-08 23:44:31.535] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-08 23:44:31.539] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-08 23:46:18.325] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-05-08 23:46:18.339] [exthost] [info] Extension host with pid 10488 exiting with code 0
+[2022-05-08 23:46:20.036] [exthost] [info] Extension host with pid 11808 started
+[2022-05-08 23:46:20.036] [exthost] [info] Skipping acquiring lock for c:\Users\Rafael\Documents\GitHub\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\user-data\User\workspaceStorage\76142acb7d0d8f0f592774319de9c627.
+[2022-05-08 23:46:20.184] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-05-08 23:46:20.192] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-05-08 23:46:20.211] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-05-08 23:46:20.224] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-08 23:46:20.228] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-05-08 23:46:20.232] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-08 23:46:20.235] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: true, activationEvent: '*', root cause: platformio.platformio-ide
+[2022-05-08 23:46:20.772] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-05-08 23:46:20.859] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-08 23:46:20.878] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-08 23:46:20.884] [exthost] [info] ExtensionService#_doActivateExtension platformio.platformio-ide, startup: true, activationEvent: '*'
+[2022-05-08 23:46:21.439] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-05-08 23:46:21.647] [exthost] [info] ExtensionService#_doActivateExtension marlinfirmware.auto-build, startup: true, activationEvent: '*'
+[2022-05-08 23:46:21.668] [exthost] [info] Eager extensions activated
+[2022-05-08 23:46:21.671] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-08 23:46:21.681] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-08 23:46:21.684] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-08 23:46:24.857] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-08 23:46:24.899] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-08 23:46:25.040] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-08 23:47:19.666] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-05-08 23:47:19.700] [exthost] [info] Extension host with pid 11808 exiting with code 0

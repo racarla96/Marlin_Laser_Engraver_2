@@ -1,3 +1,2 @@
-2022/03/21-21:58:07.737 2d44 Reusing MANIFEST C:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\user-data\Service Worker\Database/MANIFEST-000001
-2022/03/21-21:58:07.743 2d44 Recovering log #3
-2022/03/21-21:58:07.743 2d44 Reusing old log C:\Users\Racarla\Documents\Git\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\user-data\Service Worker\Database/000003.log 
+2022/05/08-23:22:35.445 ba8 Creating DB C:\Users\Rafael\Documents\GitHub\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\user-data\Service Worker\Database since it was missing.
+2022/05/08-23:22:35.455 ba8 Reusing MANIFEST C:\Users\Rafael\Documents\GitHub\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\user-data\Service Worker\Database/MANIFEST-000001

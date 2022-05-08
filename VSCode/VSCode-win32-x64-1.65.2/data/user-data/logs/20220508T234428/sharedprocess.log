@@ -1,0 +1,7 @@
+[2022-05-08 23:44:31.947] [sharedprocess] [info] Starting worker process with pid 10572 (type: fileWatcher, window: 1).
+[2022-05-08 23:44:32.023] [sharedprocess] [info] Deleted from disk ms-vscode.cpptools-extension-pack c:\Users\Rafael\Documents\GitHub\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\ms-vscode.cpptools-extension-pack-1.1.0
+[2022-05-08 23:44:32.199] [sharedprocess] [info] Deleted from disk marlinfirmware.auto-build c:\Users\Rafael\Documents\GitHub\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\marlinfirmware.auto-build-2.1.37
+[2022-05-08 23:44:32.221] [sharedprocess] [info] Deleted from disk ms-vscode.cpptools c:\Users\Rafael\Documents\GitHub\Marlin_Laser_Engraver_2\VSCode\VSCode-win32-x64-1.65.2\data\extensions\ms-vscode.cpptools-1.8.4
+[2022-05-08 23:44:32.258] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2022-05-08 23:46:18.336] [sharedprocess] [info] Worker process with pid 10572 terminated normally (type: fileWatcher, window: 1).
+[2022-05-08 23:46:20.792] [sharedprocess] [info] Starting worker process with pid 11900 (type: fileWatcher, window: 1).
